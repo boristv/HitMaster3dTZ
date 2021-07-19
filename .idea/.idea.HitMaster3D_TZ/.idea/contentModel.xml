@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\79043\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\79043\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_HitMaster3D_TZ.936305123.00" t="ExcludeRecursive" />
+    <e p="D:\UnityProjects\HitMaster3D_TZ" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Animation" t="Include">
+          <e p="SetState.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Bullet.cs" t="Include" />
+          <e p="EnemyCounter.cs" t="Include" />
+          <e p="EnemyHealth.cs" t="Include" />
+          <e p="EnemyPart.cs" t="Include" />
+          <e p="MovementPath.cs" t="Include" />
+          <e p="PlayerActions.cs" t="Include" />
+          <e p="PlayerBehaviour.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="PlayerStates" t="Include">
+            <e p="BaseState.cs" t="Include" />
+            <e p="FightState.cs" t="Include" />
+            <e p="IdleState.cs" t="Include" />
+            <e p="IPlayerStateSwitcher.cs" t="Include" />
+            <e p="RunState.cs" t="Include" />
+            <e p="ShootingState.cs" t="Include" />
+          </e>
+          <e p="PoolSystem" t="Include">
+            <e p="ObjectPooling.cs" t="Include" />
+            <e p="PoolManager.cs" t="Include" />
+            <e p="PoolObject.cs" t="Include" />
+            <e p="PoolSetup.cs" t="Include" />
+          </e>
+          <e p="Ragdoll.cs" t="Include" />
+          <e p="Shooting.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="HealthUI.cs" t="Include" />
+            <e p="Information.cs" t="Include" />
+          </e>
+          <e p="Weapon.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HitMaster3D_TZ.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
